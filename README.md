@@ -1,10 +1,11 @@
 # modjek
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
+Development in Progress
+The feature you are looking for is currently under development and has not been released yet. Please check back later for updates.
 
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+Thank you for your patience!
 
-TODO: Delete this and the text above, and describe your gem
+For more details, you can follow the progress. If you'd like to contribute, please see the Contributing section below.
 
 ## Installation
 
